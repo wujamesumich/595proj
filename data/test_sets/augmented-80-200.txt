@@ -1,0 +1,1684 @@
+[
+    {
+        "id": "705_batch_2",
+        "labels": [
+            "Name calling/Labeling",
+            "Slogans"
+        ],
+        "text": "The Democrats New America\n"
+    },
+    {
+        "id": "706_batch_2",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "WE ARE AT WAR!\n\nThere is a complex assault on our presidential election\nwith all the multifaceted tentacles of a terrorist organization and operation\n\n2020\nTERRORISM\n"
+    },
+    {
+        "id": "710_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "KILLED HIMSELF IN PRISON\n\nWON AN HONEST ELECTION\n"
+    },
+    {
+        "id": "713_batch_2",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language"
+        ],
+        "text": "I will never concede!\n\nNO WAY IN HELL BIDEN WON!\n"
+    },
+    {
+        "id": "715_batch_2",
+        "labels": [
+            "Doubt"
+        ],
+        "text": "TRYING TO FIGURE OUT HOW BIDEN WON A RECORD LOW OF ONLY 16.7% OF ALL U.S. COUNTIES\n\nYET SUPPOSEDLY WON THE ELECTION WITH THE MOST VOTES IN HISTORY\n\n"
+    },
+    {
+        "id": "716_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Smears",
+            "Whataboutism"
+        ],
+        "text": "HYPOCRISY MUCH?!\nMacy's Thanksgiving Day Parade to March On Despite Pandemic\n\nBusinesses Are Closing Permanently, People Are Losing Everything!\nLet's Have A Parade!\n"
+    },
+    {
+        "id": "720_batch_2",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language"
+        ],
+        "text": "WHEN TRUMP IS REELECTED THERE WILL BE BLOOD!"
+    },
+    {
+        "id": "722_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Reductio ad hitlerum"
+        ],
+        "text": "People are so quick to forget.\n\nWedding bands that were removed from Holocaust victims prior to being executed, 1945. \nEach ring represents a destroyed family. \nNever forget, Nazis tore down statues.\nBanned free speech.\nBlamed economic hardships on one group of people. Instituted gun control.\nSound Familiar?"
+    },
+    {
+        "id": "723_batch_2",
+        "labels": [
+            "Name calling/Labeling"
+        ],
+        "text": "FAKE WINNER"
+    },
+    {
+        "id": "724_batch_2",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Obfuscation, Intentional vagueness, Confusion"
+        ],
+        "text": "\"We put together I think the most extensive and inclusive voter fraud organization in the history of American politics.\"\n-Joe Biden"
+    },
+    {
+        "id": "725_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "The Fraudfather\nHe'll give you a ballot you can reuse"
+    },
+    {
+        "id": "726_batch_2",
+        "labels": [],
+        "text": "NOW YOU KNOW WHY I DIDN'T BOTHER CAMPAIGNING"
+    },
+    {
+        "id": "727_batch_2",
+        "labels": [],
+        "text": "Me coming home with a turkey that serves 25"
+    },
+    {
+        "id": "732_batch_2",
+        "labels": [],
+        "text": "I NEVER SAY ANYTHING I CAN'T PROVE. \n- SIDNEY POWELL"
+    },
+    {
+        "id": "733_batch_2",
+        "labels": [
+            "Glittering generalities (Virtue)",
+            "Loaded Language"
+        ],
+        "text": "'Strike me down and you'll make me even more powerful'"
+    },
+    {
+        "id": "736_batch_2",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Flag-waving",
+            "Loaded Language"
+        ],
+        "text": "By Bullet or Ballot\nRestoration Of The Republic Is Coming !"
+    },
+    {
+        "id": "738_batch_2",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Flag-waving",
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "We're fed up.\nWe're not asking for our country back.\nWe're TAKING IT BACK\nWE THE PEOPLE ARE COMING\nAmerica was founded by pissed off people.\nAnd they're pissed again!"
+    },
+    {
+        "id": "740_batch_2",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language"
+        ],
+        "text": "REMEMBER KIDS. \nYOU CAN VOTE YOUR WAY INTO SOCIALISM.\nBUT YOU HAVE TO SHOOT YOUR WAY OUT."
+    },
+    {
+        "id": "741_batch_2",
+        "labels": [
+            "Doubt",
+            "Loaded Language"
+        ],
+        "text": "NOW RIDDLE ME THIS\n\nIF VOTER FRAUD IS SO LOW, WHY DO LIBERALS THROW A TEMPER TANTRUM WHENEVER ANYBODY BOTHERS TO CHECK?"
+    },
+    {
+        "id": "744_batch_2",
+        "labels": [
+            "Doubt",
+            "Loaded Language"
+        ],
+        "text": "THE GOVERNMENT IS CORRUPT ON EVERY LEVEL BUT DON'T WORRY, THE GOVERNMENT WILL INVESTIGATE\nITSELF AND TELL YOU WHAT REALLY HAPPENED.\n"
+    },
+    {
+        "id": "746_batch_2",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "THE MOST ANOINTED FALSE PROPHET IN THE EARTH TODAY IS THE LYING MEDIA AND IT HAS MILLIONS OF\nCHRISTIANS UNDERNEATH ITS INFLUENCE AND THEY\nDON'T EVEN KNOW IT!\n\n"
+    },
+    {
+        "id": "748_batch_2",
+        "labels": [],
+        "text": "IF YOU AIN'T DONALD TRUMP\nTHEN YOU AIN'T MY PRESIDENT\n"
+    },
+    {
+        "id": "750_batch_2",
+        "labels": [
+            "Doubt"
+        ],
+        "text": "WHY do Sidney Powell, James O'Keefe and Tom Fitton\nhave to do the job of our FBI and DOJ?\n\n\n"
+    },
+    {
+        "id": "753_batch_2",
+        "labels": [
+            "Loaded Language"
+        ],
+        "text": "HAIL JUSTICE AMY CONEY-BARRETT\n"
+    },
+    {
+        "id": "754_batch_2",
+        "labels": [],
+        "text": "WE COVER OUR FACES\n\nSO OUR PARENTS WON'T GROUND US\n"
+    },
+    {
+        "id": "758_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Slogans"
+        ],
+        "text": "FUCK EM\n\nRELEASE THE KRAKEN\n"
+    },
+    {
+        "id": "759_batch_2",
+        "labels": [
+            "Doubt",
+            "Loaded Language"
+        ],
+        "text": "DOMINION VOTING AND SCYTL ARE FOREIGN COMPANIES...\n\nACCORDING TO U.S. LAW THAT'S ILLEGAL!!!\n"
+    },
+    {
+        "id": "763_batch_2",
+        "labels": [],
+        "text": "THIS AIN'T OVER\n"
+    },
+    {
+        "id": "765_batch_2",
+        "labels": [
+            "Doubt",
+            "Presenting Irrelevant Data (Red Herring)"
+        ],
+        "text": "IF THEY ARE SO SURE THEY WON WHY HASNT KAMALA RESIGNED HER SENATE SEAT?\n"
+    },
+    {
+        "id": "766_batch_2",
+        "labels": [
+            "Appeal to authority",
+            "Loaded Language"
+        ],
+        "text": "COWBOY WISDOM\n\"The water ain't gonna clear up 'til you get the pigs outa the creek!\"\n"
+    },
+    {
+        "id": "767_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "AMERICA WAS NEVER THAT GREAT\n\nCAN YOU REPEAT THAT YOU PIECE OF SHIT"
+    },
+    {
+        "id": "770_batch_2",
+        "labels": [
+            "Doubt",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "Liberal media declaring Biden the winner\n\nCaptain, I'm picking up BULLSHIT on all frequencies\n"
+    },
+    {
+        "id": "771_batch_2",
+        "labels": [],
+        "text": "Hallo. \nVe vill have to restrikt your akkount because you vont konform to kommunity standards.\n\n"
+    },
+    {
+        "id": "775_batch_2",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "Nancy \"Has-been\" Pelosi has claimed that even if he is aquitted, Trump will always go down in history as having been impeached.\nWhat Nasty Nancy hasn't realized yet is that her own legacy will be to go down in history as being the most\ncorrupt, lying and despised member of congress and the WORST speaker of the house that has ever been\nknown to man.\n"
+    },
+    {
+        "id": "778_batch_2",
+        "labels": [],
+        "text": "SEPTEMBER\n\nОСТОВЕR\n\nNOVEMBER\nYou Are Here\n\nDECEMBER\n\nFEBRUARY\n\nMARCH\n\nAPRIL\n\nMAY\n"
+    },
+    {
+        "id": "779_batch_2",
+        "labels": [],
+        "text": "BIDEN/HARRIS VOTERS\n"
+    },
+    {
+        "id": "781_batch_2",
+        "labels": [
+            "Doubt"
+        ],
+        "text": "I WONDER HOW MANY DEMOCRATS ARE THINKING\n\"WE FILLED OUT TOO MANY\"\n\n"
+    },
+    {
+        "id": "782_batch_2",
+        "labels": [],
+        "text": "Ladies and gentlemen, THIS, is what I call modern art.\n\nTrump\n\n"
+    },
+    {
+        "id": "783_batch_2",
+        "labels": [],
+        "text": "I SAW WHAT YOU DID WITH THOSE BALLOTS.\n"
+    },
+    {
+        "id": "785_batch_2",
+        "labels": [
+            "Loaded Language"
+        ],
+        "text": "I'M A R.A.C.I.S.T.\n\nREPUBLICAN\nAGAINST\nCOMMUNIST\nINSANE\nSOCIALIST\nTERRORISM\n\nARE YOU A R.A.C.I.S.T. TOO?\n"
+    },
+    {
+        "id": "787_batch_2",
+        "labels": [],
+        "text": "Your inspiration..\n\nMy inspiration\n"
+    },
+    {
+        "id": "789_batch_2",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Smears"
+        ],
+        "text": "Case for Biden sainthood opened at Vatican after he raised millions from the dead on election day\n\n"
+    },
+    {
+        "id": "790_batch_2",
+        "labels": [
+            "Glittering generalities (Virtue)",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "MAYBE THE REASON GROWN ADULTS ARE ACTING LIKE\nCHILDREN ABOUT PRESIDENT TRUMP Is because he's stepped up and has acted like the \"strict parent\" to a group of spoiled, ignorant, and entitled \"teenagers\" in a Government that has been in need of a true Father figure for a long time!!!!!\n"
+    },
+    {
+        "id": "794_batch_2",
+        "labels": [],
+        "text": "AMERICAN EXPERIENCE\nTHE GREAT WAR\n"
+    },
+    {
+        "id": "795_batch_2",
+        "labels": [],
+        "text": "HOUSTON WE FOUND SOME MORE BALLOTS\n"
+    },
+    {
+        "id": "798_batch_2",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "\"I'M COMPLETELY FED-UP TO HERE WITH FACEBOOK PUTTING WORDS INTO MY MOUTH\"\n\n\"WHEN I SAID, WE NOW HAVE THE GREATEST VOTER FRAUD ORGANIZATION IN HISTORY',,, I MEANT IT!\".\n"
+    },
+    {
+        "id": "799_batch_2",
+        "labels": [
+            "Appeal to authority",
+            "Exaggeration/Minimisation",
+            "Glittering generalities (Virtue)",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "The greatest words ever spoken by a sitting president.\n\n\"Democrats continue to defraud the public with ridiculous bullshit!\"\n- Donald Trump -\n"
+    },
+    {
+        "id": "802_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ],
+        "text": "RIP FOX NEWS\n\nI'M STILL GOING TO BE YOUR PRESIDENT\n"
+    },
+    {
+        "id": "803_batch_2",
+        "labels": [
+            "Doubt",
+            "Loaded Language",
+            "Thought-terminating cliché"
+        ],
+        "text": "He's been telling us for months about election fraud...\nDo you really believe he hasn't been preparing for this moment???\n3..2.. 1 ....Checkmate!!\n"
+    },
+    {
+        "id": "804_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "Enjoy Communism\n\"it's finger lickin'good\"\n\n"
+    },
+    {
+        "id": "805_batch_2",
+        "labels": [
+            "Name calling/Labeling"
+        ],
+        "text": "WALT DISNEY Presents\nOLD Smeller\n"
+    },
+    {
+        "id": "806_batch_2",
+        "labels": [
+            "Doubt"
+        ],
+        "text": "Still trying to find the section in the Constitution where it says CNN determines the President...\n"
+    },
+    {
+        "id": "808_batch_2",
+        "labels": [
+            "Doubt",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "\"WHERE ARE YOU GOING,BIG BIRD?\"\n\n\"I'M GOING TO PENNSYLVANIA, TO TEACH THEM HOW TO COUNT\"\n\n"
+    },
+    {
+        "id": "813_batch_2",
+        "labels": [
+            "Exaggeration/Minimisation"
+        ],
+        "text": "NOW MORE THAN EVER"
+    },
+    {
+        "id": "814_batch_2",
+        "labels": [
+            "Doubt",
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "HOLD UP!!! Sleepy Joe broke my record?!?!?!?\n\nI call BULLSHIT!!!"
+    },
+    {
+        "id": "815_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "CHEERS TO MY HATERS\n\nBE PATIENT, SO MUCH MORE IS COMING"
+    },
+    {
+        "id": "816_batch_2",
+        "labels": [
+            "Name calling/Labeling",
+            "Slogans",
+            "Smears"
+        ],
+        "text": "FAIR AND BALANCED\n\nFAUX NEWS\n\nWE DISTORT YOU COMPLY"
+    },
+    {
+        "id": "817_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Whataboutism"
+        ],
+        "text": "Those who spent the last 4 years convinced there was election interference are now saying there's no way the election could be rigged."
+    },
+    {
+        "id": "819_batch_2",
+        "labels": [
+            "Repetition",
+            "Slogans"
+        ],
+        "text": "9-11 NEVER FORGET\n\n11-3 NEVER FORGET"
+    },
+    {
+        "id": "822_batch_2",
+        "labels": [],
+        "text": "DEMOCRATS GOING TO THE POLLS 2020"
+    },
+    {
+        "id": "824_batch_2",
+        "labels": [
+            "Appeal to authority",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Slogans"
+        ],
+        "text": "\"SHOW ME A MAN THAT GETS RICH BY BEING A POLITICIAN, AND I'LL SHOW YOU A CROOK.\"\n-HARRY S. TRUMAN\n\nMAKIN' IT RAIN"
+    },
+    {
+        "id": "825_batch_2",
+        "labels": [
+            "Glittering generalities (Virtue)",
+            "Loaded Language"
+        ],
+        "text": "Never burned one building\nNever robbed one store\nNever destroyed one town\n\nChanged the World"
+    },
+    {
+        "id": "828_batch_2",
+        "labels": [
+            "Name calling/Labeling"
+        ],
+        "text": "All four members of 'The Squad' re-elected to House, with more progressives joining\n\nMEET THE SQUAD"
+    },
+    {
+        "id": "829_batch_2",
+        "labels": [
+            "Doubt",
+            "Loaded Language",
+            "Smears"
+        ],
+        "text": "STEPHANOPOULOS: WHAT'S IN YOUR QUIVER ?\n\nPELOSI: STOLEN BALLOTS TO DUMP"
+    },
+    {
+        "id": "830_batch_2",
+        "labels": [
+            "Doubt"
+        ],
+        "text": "Biden makes history with twice as many votes as voters"
+    },
+    {
+        "id": "832_batch_2",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Flag-waving",
+            "Loaded Language",
+            "Slogans"
+        ],
+        "text": "PRAY FOR AMERICA\n\nDear God \nI bow my head and ask, if it be thy will, please save this land from those who seek to destroy it."
+    },
+    {
+        "id": "837_batch_2",
+        "labels": [
+            "Doubt",
+            "Loaded Language"
+        ],
+        "text": "SO YOU'RE TELLING ME THE DEMS RIGGED THE ELECTION BUT LET MITCH MCCONNELL WIN?"
+    },
+    {
+        "id": "839_batch_2",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language"
+        ],
+        "text": "IS IT ALZHEIMER'S?\nTHE INTERNET NEVER FORGETS, BUT THEY SEEM TO... \n\n\"I HAVE NEVER SEEN ANYTING LIKE THE ANGER ON THE LEFT\"\n- Ted Cruz Feb. 23, 2017"
+    },
+    {
+        "id": "840_batch_2",
+        "labels": [
+            "Thought-terminating cliché"
+        ],
+        "text": "KENTUCKY VOTERS HAVE A RIGHT KNOW WHAT'S WRONG WITH MITCH MCCONNELL'S HEALTH BEFORE THE ELECTION.\nPERIOD."
+    },
+    {
+        "id": "841_batch_2",
+        "labels": [
+            "Doubt",
+            "Smears"
+        ],
+        "text": "i spent the last 11 years refusing to do my job and 9 of those years preventing the entire Us senate from doing theirs.\n\nI'm up for re election this year.\nAnybody want me to spend 6 more years NOT doing my job?"
+    },
+    {
+        "id": "843_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Slogans",
+            "Smears"
+        ],
+        "text": "He LOVES to Talk about Himself.\n\nWARNING SIGNS OF A CULT\n-From the Cult Education Network\n• The Leader is Always Right\n• Criticism of the Leader is Characterized as “Persecution\"\n• No Matter How Harmful, the Leader's Behavior is Justified\n• Adherents are Obsessed with the Leader\n• The Leader has the Exclusive Franchise on \"Truth\"\n\nANOTHER DAY, MORE REPUBLICAN DIRTY TRICKS"
+    },
+    {
+        "id": "844_batch_2",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Smears"
+        ],
+        "text": "Republicans, \nYou can either follow Jesus Christ;\n\nOr, you can follow Donald Trump\n\nYou cannot do both."
+    },
+    {
+        "id": "845_batch_2",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "THE MOST CRIMIMAL PRESIDENCY EVER ASSEMBLED.\n\nTHE INDICTABLES"
+    },
+    {
+        "id": "846_batch_2",
+        "labels": [
+            "Name calling/Labeling"
+        ],
+        "text": "Make no mistake.\n\nThis is TRUMP's America."
+    },
+    {
+        "id": "847_batch_2",
+        "labels": [],
+        "text": "PRESIDENTS FOR TRUMP\n\nPRESIDENTS AGAINST TRUMP\n\nAmerica, this says it all."
+    },
+    {
+        "id": "852_batch_2",
+        "labels": [
+            "Loaded Language"
+        ],
+        "text": "I NEVER TOLD YOU TO HATE ANYBODY\nI DON'T CARE WHERE THEY'RE FROM,  WHAT THEY LOOK LIKE, WHO THEY'RE IN LOVE WITH, OR WHO THEY WORSHIP.\nWHY IS THIS SO DIFFICULT?"
+    },
+    {
+        "id": "854_batch_2",
+        "labels": [
+            "Flag-waving",
+            "Loaded Language",
+            "Slogans",
+            "Smears"
+        ],
+        "text": "MAKE AMERICA GREAT AGAIN\n\nA NATION WHOSE HEALTHCARE WORKERS DON'T HAVE MASKS TO KEEP THEM FROM GETTING SICK, ATTENDING TO PATIENTS WHO CAN'T GET VENTILATORS TO KEEP THEM ALIVE, SURROUNDED BY SICK PEOPLE WHO CAN'T GET TESTED, ISN'T GREAT\nIT'S A DAMN DISGRACE."
+    },
+    {
+        "id": "858_batch_2",
+        "labels": [],
+        "text": "ELECTION 2020: PICK A TORCH"
+    },
+    {
+        "id": "860_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Smears",
+            "Thought-terminating cliché"
+        ],
+        "text": "The President of the United States is fighting the release of his DNA in a rape case.\nEvidence that would exonerate him if innocent.\nLet that sink in."
+    },
+    {
+        "id": "865_batch_2",
+        "labels": [
+            "Slogans",
+            "Smears"
+        ],
+        "text": "TRUMP FOR EX-PRESIDENT"
+    },
+    {
+        "id": "866_batch_2",
+        "labels": [
+            "Slogans"
+        ],
+        "text": "Flip the Senate"
+    },
+    {
+        "id": "872_batch_2",
+        "labels": [],
+        "text": "TRUMP ANNOUNCES HIS NEW PANDEMIC RESPONSE TEAM"
+    },
+    {
+        "id": "873_batch_2",
+        "labels": [
+            "Causal Oversimplification",
+            "Smears"
+        ],
+        "text": "TRUMP'S COUNCIL TO REOPEN AMERICA AFTERA HEALTH CRISIS.\n\nNOT ONE DOCTOR OR PUBLIC HEALTH SPECIALIST IN THE GROUP.\n\nBECAUSE TRUMP DOESN'T WANT ADVICE, HE WANTS AGREEMENT."
+    },
+    {
+        "id": "875_batch_2",
+        "labels": [
+            "Appeal to authority"
+        ],
+        "text": "\"Trump cannot come up with an alibi for the month of\nFebruary.\"\n- Jennifer Rubin"
+    },
+    {
+        "id": "876_batch_2",
+        "labels": [],
+        "text": "\"MY WORK HERE IS ALMOST DONE.\""
+    },
+    {
+        "id": "877_batch_2",
+        "labels": [
+            "Glittering generalities (Virtue)",
+            "Slogans"
+        ],
+        "text": "Thank a Democrat\n\nSocial Security \nMedicare\nVeterans Administration \nCivil Rights \nWomen's Suffrage \nAffordable Care Act \nPeace Corps \nMinimum Wage \nUnemployment"
+    },
+    {
+        "id": "880_batch_2",
+        "labels": [
+            "Smears",
+            "Whataboutism"
+        ],
+        "text": "\"I alone can fix it\"\n- Trump, 2016\n\n\"I don't take responsibility at all\"\n- Trump, 2020"
+    },
+    {
+        "id": "881_batch_2",
+        "labels": [
+            "Glittering generalities (Virtue)",
+            "Loaded Language"
+        ],
+        "text": "REMEMBER WHEN OBAMA FORCED REPUBLICAN GOVERNORS TO BEG FOR FEDERAL DISASTER RELIEF?\n\nYEAH, ME NEITHER"
+    },
+    {
+        "id": "886_batch_2",
+        "labels": [],
+        "text": "FOUGHT ISIS \n\nFREED ISIS\n"
+    },
+    {
+        "id": "887_batch_2",
+        "labels": [
+            "Doubt",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "YOUR MASK IS THE NEW TINFOIL HAT"
+    },
+    {
+        "id": "888_batch_2",
+        "labels": [
+            "Flag-waving",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "The Biden/Harris/CCP Administration Will Never Rule Over The United States of America"
+    },
+    {
+        "id": "889_batch_2",
+        "labels": [
+            "Slogans"
+        ],
+        "text": "JUST GIVE US THE VACCINE \n\nWE DONT CARE WHATS IN IT"
+    },
+    {
+        "id": "891_batch_2",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Black-and-white Fallacy/Dictatorship",
+            "Loaded Language"
+        ],
+        "text": "CHOICE IS YOURS REMOVE HIM OR LOSE YOUR FREEDOM"
+    },
+    {
+        "id": "894_batch_2",
+        "labels": [
+            "Appeal to authority",
+            "Doubt",
+            "Loaded Language"
+        ],
+        "text": "THE PEOPLE WHO SELL THE PANIC SELL THE CURE\n\nOWNERSHIP OF THE MEDIA IS IN THE HANDS OF THE\nPERPETRATORS \n- SOLZHENITSYN"
+    },
+    {
+        "id": "900_batch_2",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "The human body has over 7 TRILLION nerves and this fucker gets on every one of mine!\n\nJustin Trudeau is an Idiot"
+    },
+    {
+        "id": "901_batch_2",
+        "labels": [],
+        "text": "HEY YOU GUYSSSS!\n\nI CAN TRAVEL NOW\nTHE VACCINE WASN'T EVEN THAT BAD"
+    },
+    {
+        "id": "903_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "Fake News TM New York Times' \"Man in Moscow\" Walter Duranty, 1922-1936\n\n\"Any report of a famine in Russia is today an exaggeration of malignant propaganda.\" \n- NYT 23 Aug 1933"
+    },
+    {
+        "id": "904_batch_2",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language",
+            "Presenting Irrelevant Data (Red Herring)"
+        ],
+        "text": "A child in America is 66,667 times more likely to be sold\nto human traffickers than die of Covid-19. \nIn addition, your masks assist in them being transported undetected and unidentified to anyone."
+    },
+    {
+        "id": "906_batch_2",
+        "labels": [],
+        "text": "Non Essential\n"
+    },
+    {
+        "id": "910_batch_2",
+        "labels": [
+            "Doubt",
+            "Loaded Language"
+        ],
+        "text": "This is what Propaganda and conditioning looks like.\nThere is no *Office* of president elect\nThis is not a briefing, its a mans opinions.\n\nThis is called Arrogation\nIts designed to make you think someone has authority because it looks like they do."
+    },
+    {
+        "id": "911_batch_2",
+        "labels": [
+            "Doubt",
+            "Loaded Language",
+            "Whataboutism"
+        ],
+        "text": "WHY ARE MASS PROTESTS FINE BUT REMEMBRANCE DAY CEREMONIES ARE DANGEROUS?"
+    },
+    {
+        "id": "914_batch_2",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Glittering generalities (Virtue)",
+            "Name calling/Labeling"
+        ],
+        "text": "Trump, The Next 3 Term President\n\nBest President in American history"
+    },
+    {
+        "id": "915_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "CHINESE COMMUNIST DEMOCRAT PARTY\n\nELECTION THEFT"
+    },
+    {
+        "id": "916_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Smears",
+            "Thought-terminating cliché",
+            "Whataboutism"
+        ],
+        "text": "THE DEMOCRATS TRIED TO IMPEACH A PRESIDENT FOR EXPOSING A CRIM NOW THEY WANT YOU TO ELECT THE PERSON WHO COMMITTED THAT CRIME LET THAT SINK IN."
+    },
+    {
+        "id": "917_batch_2",
+        "labels": [
+            "Name calling/Labeling"
+        ],
+        "text": "ATTENTION LIBERAL VOTERS...\n\nEVENTUALLY YOU WILL FIND OUT THE CHEESE IS NEVER FREE"
+    },
+    {
+        "id": "918_batch_2",
+        "labels": [
+            "Doubt",
+            "Loaded Language"
+        ],
+        "text": "WEARING A MASK INTO A RESTAURANT JUST TO SIT DOWN AND TAKE IT OFF?\n\nIS LIKE HAVING A PISSING SECTION IN A SWIMMING POOL"
+    },
+    {
+        "id": "919_batch_2",
+        "labels": [
+            "Loaded Language"
+        ],
+        "text": "When you're in court for murder but the victim tests positive for Covid at the autopsy"
+    },
+    {
+        "id": "920_batch_2",
+        "labels": [
+            "Doubt"
+        ],
+        "text": "LET'S PLAY PRETEND\n\nI'LL PRETEND YOUR MASK WORKS AND YOU PRETEND I'M WEARING ONE"
+    },
+    {
+        "id": "921_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "facebook\n\nCommiebook, llegal Censorship"
+    },
+    {
+        "id": "927_batch_2",
+        "labels": [
+            "Loaded Language"
+        ],
+        "text": "Corona Virus\n\n•poverty\n•child slavery\n•pedophiles in positions of power\n•wealth inequality\n•mind control\n•sex trafficking\n•5g causing cancer"
+    },
+    {
+        "id": "928_batch_2",
+        "labels": [
+            "Doubt"
+        ],
+        "text": "IF YOU ACTUALLY CARE ABOUT THE ENVIRONMENT YOU'LL WANT CARBON DIOXIDE LEVELS IN THE ATMOSPHERE TO MORE THAN TRIPLE."
+    },
+    {
+        "id": "929_batch_2",
+        "labels": [
+            "Loaded Language"
+        ],
+        "text": "I WANT THE TRUTH!\n\nYou do realize who I am right?"
+    },
+    {
+        "id": "932_batch_2",
+        "labels": [
+            "Glittering generalities (Virtue)",
+            "Loaded Language",
+            "Smears"
+        ],
+        "text": "President Trump, infected with COVID-19, returns to the White House after 3 days in the hospital\n\nJustin Trudeau, who wasn't infected with COVID-19, self isolates for 28 days at his cottage"
+    },
+    {
+        "id": "933_batch_2",
+        "labels": [
+            "Doubt",
+            "Loaded Language"
+        ],
+        "text": "IF POSTING THE TRUTH DIDN'T AFFECT THE MASSES THEY WOULDN'T CENSOR IT"
+    },
+    {
+        "id": "935_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "OBAMAGATE\n\nWATERGATE"
+    },
+    {
+        "id": "936_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Whataboutism"
+        ],
+        "text": "An app to trace movements of COVID positive people?\n\nWhere are the apps tracking PEDOPHILES and RAPISTS?!"
+    },
+    {
+        "id": "937_batch_2",
+        "labels": [
+            "Loaded Language",
+            "Smears"
+        ],
+        "text": "Our Forefathers in 1944 Facing Almost Certain Death\n\nLiberals in 2020 Facing a 99.7% Survival Rate"
+    },
+    {
+        "id": "938_batch_2",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Smears"
+        ],
+        "text": "I can always tell which passengers are anti-vaccine.\nThey are the ones who peek into the cockpit prior to the flight and tell me they could fly better than me because they watched a video on YouTube."
+    },
+    {
+        "id": "939_batch_2",
+        "labels": [],
+        "text": "Anti-Vaxxers:\nThe COVID vaccine makes you vulnerable to lightning.\nCovid vaccine volunteer, 72, struck by lightning after getting Moderna injection"
+    },
+    {
+        "id": "940_batch_2",
+        "labels": [
+            "Doubt"
+        ],
+        "text": "You said you had done \"research on vaccines for many years.\" \nYet when I search for your name in PubMed, I find no publications at all.\n\n100 points from Anti-Vaxxer!!!"
+    },
+
+
+    {
+        "id": "rLSC0",
+        "labels": [
+            "Causal Oversimplification",
+            "Doubt",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Presenting Irrelevant Data (Red Herring)",
+            "Presenting Irrelevant Data (Red Herring)",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "ALL YOU NEED TO KNOW ABOUT THE AMERICAN HEALTH CARE SYSTEM IS THAT THERE\u2019S A POPULAR TV SERIES\nWHERE A MAN TURNS TO COOKING INDUSTRIAL QUANTITIES OF CRYSTAL METH IN ORDER TO PAY HIS HOSPITAL BILLS"
+    },
+    {
+        "id": "rLSC1",
+        "labels": [
+            "Causal Oversimplification",
+            "Doubt",
+            "Loaded Language",
+            "Smears"
+        ],
+        "text": "IN 1984 I LOWERED THE TOP INCOME TAX RATE FROM 70% TO 20%\nTHEN I TAXED SOCIAL SECURITY FOR THE FIRST TIME EVER TO MAKE UP FOR IT"
+    },
+    {
+        "id": "rLSC2",
+        "labels": [
+            "Doubt",
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Repetition",
+            "Whataboutism"
+        ],
+        "text": "I\u2019M GOING TO CREATE SO MANY JOBS\nTHAT EACH AMERICAN WITH BE WORKING TWO, EVEN THREE JOBS BELIEVE ME"
+    },
+    {
+        "id": "rLSC3",
+        "labels": [
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Smears"
+        ],
+        "text": "DID YOU KNOW?\nCorrections Corporation of America, the largest for-profit prison company in America, spends nearly $1 million a year against cannabis legalization This is their official reason why: \"changes with respect to drugs and controlled substances  could affect the number of persons arrested, convicted, and, sentenced, thereby potentially reducing demand for correctional facilities to house them\""
+    },
+    {
+        "id": "rLSC4",
+        "labels": [
+            "Causal Oversimplification",
+            "Exaggeration/Minimisation",
+            "Name calling/Labeling"
+        ],
+        "text": "THESE JERKS SELLING HAND SANITIZER FOR $70 PISS ME OFF\nINSURANCE COMPANIES SELLING $2 WORTH OF INSULIN FOR $600"
+    },
+    {
+        "id": "rLSC5",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Doubt",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Thought-terminating clich\u00e9",
+            "Whataboutism"
+        ],
+        "text": "HAD A GREAT UNION JOB\n\u201dUNIONS ARE RUINING THE COUNTRY\u201d"
+    },
+    {
+        "id": "rLSC6",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Doubt",
+            "Exaggeration/Minimisation",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "BECOMES HOMEOWNER AT 22\nTELLS SON\u2019S GENERATION IT\u2019S LUCKY BECAUSE IT CAN AFFORD $200 SMARTPHONES"
+    },
+    {
+        "id": "rLSC7",
+        "labels": [
+            "Doubt",
+            "Exaggeration/Minimisation",
+            "Obfuscation, Intentional vagueness, Confusion",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "HAS IT BETTER THAN HIS PARENTS\nAND HIS KIDS"
+    },
+    {
+        "id": "rLSC8",
+        "labels": [
+            "Doubt",
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "\u201dWHEN I WAS IN COLLEGE MY SUMMER JOB PAID THE TUITION\u201d\nTUITION WAS $400"
+    },
+    {
+        "id": "rLSC9",
+        "labels": [
+            "Doubt",
+            "Exaggeration/Minimisation",
+            "Thought-terminating clich\u00e9",
+            "Whataboutism"
+        ],
+        "text": "\u201dWHY DON\u2019T YOU CALL AND ASK IF THEY\u2019RE HIRING?\u201d\nHASN\u2019T BEEN ON A JOB HUNT SINCE 1982"
+    },
+    {
+        "id": "rLSC10",
+        "labels": [
+            "Causal Oversimplification",
+            "Doubt",
+            "Thought-terminating clich\u00e9",
+            "Whataboutism"
+        ],
+        "text": "BOUGHT A HOUSE IN HIS 20\u2019S WITH A 9-TO-5 JOB THAT DIDN\u2019T REQUIRE A BACHELOR\u2019S DEGREE\n\u201dKIDS THESE DAYS HAVE IT EASY\u201d"
+    },
+    {
+        "id": "rLSC11",
+        "labels": [
+            "Doubt",
+            "Exaggeration/Minimisation",
+            "Obfuscation, Intentional vagueness, Confusion",
+            "Smears"
+        ],
+        "text": "FINANCES BOAT @39%\nMAKES YOU BORROW TUITION MONEY AT 89%"
+    },
+    {
+        "id": "rLSC12",
+        "labels": [
+            "Doubt",
+            "Exaggeration/Minimisation",
+            "Thought-terminating clich\u00e9",
+            "Whataboutism"
+        ],
+        "text": "HASN\u2019T APPLIED FOR A JOB SINCE JIMMY CARTER\n\u201dYOU NEED TO \u2018HIT THE BRICKS\u2019 TO FIND WORK THAT\u2019S WHAT I DID\u201d"
+    },
+
+
+    {
+        "id": "ifunny0",
+        "labels": [
+            "Doubt",
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "Trump supporters in prison watching him pardon Israeli spies and black rappers"
+    },
+    {
+        "id": "ifunny1",
+        "labels": [
+            "Bandwagon",
+            "Doubt",
+            "Glittering generalities (Virtue)",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "If you are feeling like a prisoner within company, you are not seeing the potential of the company"
+    },
+    {
+        "id": "ifunny2",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Causal Oversimplification",
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "$40k earners defending predatory capitalism like"
+    },
+    {
+        "id": "ifunny3",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Doubt",
+            "Flag-waving",
+            "Name calling/Labeling",
+            "Repetition",
+            "Whataboutism"
+        ],
+        "text": "US warns citizens not to go to Hong Kong because of Covid risks\nHuh? Surely Hong Kong people should be warning US citizens not to stay in the US because of Covid risks!"
+    },
+    {
+        "id": "ifunny4",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Glittering generalities (Virtue)",
+            "Name calling/Labeling",
+            "Slogans"
+        ],
+        "text": "> barges into America > Hands out anti-capitalist media > refuses to elaborate > leaves\nSNOWPIERCER\nPARASITE\nSQUID GAME"
+    },
+    {
+        "id": "ifunny5",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Doubt",
+            "Name calling/Labeling",
+            "Whataboutism"
+        ],
+        "text": "NO ONE IN THIS PHOTO|NCAN GET PREGNANT"
+    },
+    {
+        "id": "ifunny6",
+        "labels": [
+            "Black-and-white Fallacy/Dictatorship",
+            "Causal Oversimplification",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "People who stand to profit from an industry should not be allowed to legislate that industry"
+    },
+    {
+        "id": "ifunny7",
+        "labels": [
+            "Appeal to authority",
+            "Bandwagon",
+            "Loaded Language",
+            "Presenting Irrelevant Data (Red Herring)",
+            "Repetition"
+        ],
+        "text": "HUGO WAS SUCH A GREAT LEADER THAT HE CUT 75% OF EXTREME POVERTY IN VENEZUELA SEARCH \"EXTREME POVERTY 75% VENEZUELA\" TO LEARN MORE"
+    },
+    {
+        "id": "ifunny8",
+        "labels": [
+            "Glittering generalities (Virtue)",
+            "Loaded Language"
+        ],
+        "text": "The wealth share of the richest 1% of US fam\u00edlies with children, 44%\nThe poorest 90% of US families with children hold 18% of the total wealth of the nation's households with kids"
+    },
+    {
+        "id": "ifunny9",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language",
+            "Obfuscation, Intentional vagueness, Confusion",
+            "Slogans",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "Work sucks Play video games Join r/Antiwork"
+    },
+    {
+        "id": "ifunny10",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Causal Oversimplification",
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Smears"
+        ],
+        "text": "I WONDER WHICH COUNTRY LOOKS BETTER TO LIVE IN North Korea | America"
+    },
+    {
+        "id": "ifunny11",
+        "labels": [
+            "Causal Oversimplification",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Repetition",
+            "Whataboutism"
+        ],
+        "text": "This is Jeff Jeff's company grossed $128 billion in sales last year Jeff's employees are paid so little they qualify for food stamps Jeff's new grocery store doesn't accept food stamps Jeff is the richest man in world history\nDon't be like Jeff"
+    },
+    {
+        "id": "ifunny12",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Black-and-white Fallacy/Dictatorship",
+            "Causal Oversimplification",
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Obfuscation, Intentional vagueness, Confusion",
+            "Slogans",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "JUST TOOK A DNA TEST\nFOUND OUT IM 100%\nbreaking down under the pressure of living up to the expectations of friends and family in a dystopian hellscape of late stage capitalism designed by the wealthy elite to keep me living paycheck to paycheck and eventually dying of a treatable illness"
+    },
+
+
+    {
+        "id": "13000",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "YO, GUYS I PROMISE\n\nWORKER DEMOCRACY\n\nIS COMING RIGHT AFTER\n\nA FEW HUNDRED YEARS\n\nOF\n\nTOTALITARIAN STATE CAPITALISM\n\nWITH CHINESE CHARACTERISTICS"
+    },
+    {
+        "id": "13001",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling",
+            "Presenting Irrelevant Data (Red Herring)"
+        ],
+        "text": "Random: \"China just...\"\nTankies:\nBased!\nEnacting real change!\nUnbelievably based\nMore western propaganda!\nHow's the weather in Langley, CIA?"
+    },
+    {
+        "id": "13002",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Reductio ad hitlerum",
+            "Slogans"
+        ],
+        "text": "TYRANTS ARE NOT COMRADES\nTANKIES OUT!"
+    },
+    {
+        "id": "13003",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Smears",
+            "Whataboutism"
+        ],
+        "text": "All muslims are terrorists\n\nNOOOOO!!! THAT'S RACIST IMPERIALISM!!!\n\n(Tankie)\n\nAll muslims are terrorists\n\nOMG!!! BASED!!!\n\n(Tankie)"
+    },
+    {
+        "id": "13004",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling"
+        ],
+        "text": "Normal CIA conspiracy theories\n\n-Created and spread HIV\n-Killed almost 1000 people at Jonestown as part of Project MKUltra\n-Murdered the president in broad daylight and got away with it\n\nTankie CIA conspiracy theories\n\n-Produced a few documents and pictures showing Uyghurs in reeducation camps\n-Fund random Twitter anarchists\n-Make Chinese celebrities like girly stuff"
+    },
+    {
+        "id": "13005",
+        "labels": [
+            "Appeal to authority",
+            "Doubt"
+        ],
+        "text": "Me, a Hong Konger to Tankies who try to \"educate\" me on HK\n\nI know more than you."
+    },
+    {
+        "id": "13006",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language",
+            "Smears"
+        ],
+        "text": "CHINA IS SOCIALIST!\n\nCORPORATIONS\n\nBILLIONAIRES\n\nWEALTH INEQUALITY\n\nPOLITICAL CORRUPTION\n\nFORCED LABOR\n\nPOWERFUL ELITE CONTROLLING THE MEANS OF PRODUCTION"
+    },
+    {
+        "id": "13007",
+        "labels": [
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Obfuscation, Intentional vagueness, Confusion"
+        ],
+        "text": "\"DEAR TANKIES. I SUPPORT VENEZUELA AND CHINA PAYS ME, SO WHY DO YOU HATE ME?\"\n\nRECEP ERDOGAN\nFOUNDER, TURNING POINT USA"
+    },
+    {
+        "id": "13008",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "Yes, US imperialism is bad\n\nBut that doesn't mean you have to support oppressive governments that use the aesthetics of socialism to hide their atrocities"
+    },
+    {
+        "id": "13009",
+        "labels": [
+            "Loaded Language"
+        ],
+        "text": "ME COMPLAINING ABOUT HOW MUCH AMERICAN CAPITALISM FUCKING SUCKS\n\"YEAH I AGREE WE SHOULD BE LIKE CHINA\"\n\nF**k"
+    },
+    {
+        "id": "13010",
+        "labels": [
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling",
+            "Reductio ad hitlerum",
+            "Smears"
+        ],
+        "text": "Tankies\nRight Wingers\nThinking that the \"Dictatorship of the Proletariat\" is an actual dictatorship"
+    },
+    {
+        "id": "13011",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "I think Denmark is a better society than North Korea\n\nWTF?!\nWORM!!\nKYS!!!\nIMPERIALIST!!!\nPOS!!\nRACIST!!!"
+    },
+    {
+        "id": "13012",
+        "labels": [
+            "Name calling/Labeling"
+        ],
+        "text": "Me after I realize that my opponent in the bootlicking contest is an twitter user who unironically calls themself dengist"
+    },
+
+
+
+    {
+        "id": "12000",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "Dialectics? Historical materialism? Surplus value? Superstructure?\n\nNah bro imagine you have two cows"
+    },
+    {
+        "id": "12001",
+        "labels": [
+            "Bandwagon",
+            "Flag-waving",
+            "Glittering generalities (Virtue)"
+        ],
+        "text": "VETERAN'S DAY\nHONORING ALL WHO SERVED ...\n\nTHE GLOBAL WORKING CLASS"
+    },
+    {
+        "id": "12002",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Whataboutism"
+        ],
+        "text": "France closing mosques and deporting Muslims\ncounter terrorism\n\nChina building schools and mosques in Xinjiang\nethnic genocide"
+    },
+    {
+        "id": "12003",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Presenting Irrelevant Data (Red Herring)",
+            "Smears",
+            "Whataboutism"
+        ],
+        "text": "Israel murders Palestinian children on live TV\ni sleep\n\nChina sends Uyghurs to school\nreal shit"
+    },
+    {
+        "id": "12004",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "picture of people walking on a street\n\npicture of people walking on a street(Pyongyang, DPRK)\num yikernos this is so creepy and literally staged, another 100 gorillion victims of communism!!11"
+    },
+    {
+        "id": "12005",
+        "labels": [
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "100 years later, Bolshevism is back. And we should be worried.\n\nGOOD."
+    },
+    {
+        "id": "12006",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "Jordan Peterson cramming the night before a debate\n\nAssassin's Creed: Syndicate - All Karl Marx Scenes\n108,442 views"
+    },
+    {
+        "id": "12007",
+        "labels": [],
+        "text": "I do not recognize Taiwan as a country\n\nSure whatever I guess\n\nI do not recognize Taiwan as a country"
+    },
+    {
+        "id": "12008",
+        "labels": [],
+        "text": "Europeans lecturing Americans about racism\n\nEuropeans talking about Romani"
+    },
+    {
+        "id": "12009",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Smears"
+        ],
+        "text": "Food, China\nFuck off china, stop eating dogs and bats\n\nLiterally the same food, japan\nOMG I LOVE JAPANESE FOOD!1!!"
+    },
+    {
+        "id": "12010",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Smears"
+        ],
+        "text": "LIBERALS BE LIKE\nCANT STAND THEOCRACIES\n\n10 MINUTES LATER\nME AND THE BESTIE"
+    },
+    {
+        "id": "12011",
+        "labels": [
+            "Appeal to authority",
+            "Exaggeration/Minimisation",
+            "Flag-waving"
+        ],
+        "text": "Here, I am not a Negro but a human being for the first time in my life... I walk in full human dignity.\n- Paul Robeson, when describing his visit to the USSR in 1934"
+    },
+    {
+        "id": "12012",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Repetition",
+            "Smears"
+        ],
+        "text": "In Syria, militias armed by the Pentagon fight those armed by the CIA\n\nWhen you fund a terrorist group to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a terrorist group you funded to get rid of a"
+    },
+
+
+    {
+        "id": "11000",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Smears"
+        ],
+        "text": "Believing the Chinese Communist party is being honest is like believing your abusive partner has really changed this time.\nCHANGE MY MIND"
+    },
+    {
+        "id": "11001",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Obfuscation, Intentional vagueness, Confusion",
+            "Smears"
+        ],
+        "text": "hey honey so today I invented four revolutionary inventions, its a step down from yesterday's 7 but still alright\nancient china\n\ntoday i arrested someone for being mean to me\nchina today"
+    },
+    {
+        "id": "11002",
+        "labels": [
+            "Exaggeration/Minimisation"
+        ],
+        "text": "When you enable gps on a huawei\n\nNOW ALL OF CHINA KNOW'S YOU'RE HERE"
+    },
+    {
+        "id": "11003",
+        "labels": [
+            "Smears"
+        ],
+        "text": "China banned online gaming with foreigners because someone made a Hong Kong protest banner in Animal crossing\n\nThat's like when your mom stopped you from playing with the kid who told you what the 'F Word' was\n\nExcept in this case the 'F Word' is freedom"
+    },
+    {
+        "id": "11004",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Smears"
+        ],
+        "text": "Julian Reichelt-The man who dares to ask China why. If \"...you monitor everything, every citizen, [why do] you refuse to monitor the diseased wet markets in your country?\""
+    },
+    {
+        "id": "11005",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "FRAGILE CHINA\n\nCORONAVIRUS\nDEBT BURDEN\nTRADE WAR\nPROTESTS\n\nHANDLE WITH CARE"
+    },
+    {
+        "id": "11006",
+        "labels": [
+            "Exaggeration/Minimisation"
+        ],
+        "text": "CHINA CELEBRATES FIRST EVER QUEUE"
+    },
+    {
+        "id": "11007",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Smears"
+        ],
+        "text": "AMERICAN RAPPERS:\nFUCK THA POLICE\n\nCHINESE RAPPERS:\nWE SUPPORT THE POLICE AND THE REGIME"
+    },
+    {
+        "id": "11008",
+        "labels": [
+            "Doubt",
+            "Exaggeration/Minimisation",
+            "Presenting Irrelevant Data (Red Herring)",
+            "Smears"
+        ],
+        "text": "Never Ask A Woman\nHer Age\n\nA Man,\nHis Salary\n\nThe Chinese Government,\nThe actual number of people infected with Coronavirus in China\n\nThe WHO,\nTo consider Taiwanese membership"
+    },
+    {
+        "id": "11009",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Smears"
+        ],
+        "text": "Good evening, this is the Bi Bi Xi from Beijing. I'm your host, Xi Jinping.\n\nBBC NEWS BREAKING\nXi Jinping's popularity rising in UK"
+    },
+    {
+        "id": "11010",
+        "labels": [
+            "Doubt",
+            "Smears",
+            "Whataboutism"
+        ],
+        "text": "Hua Chunying\nAll lives matter. We stand firmly with our African friends. We strongly oppose all forms of racial discrimination and inflammatory expressions of racism and hatred.\n\nAfricans Racially discriminated in Guangzhou\n\nAm l a joke to you?"
+    },
+    {
+        "id": "11011",
+        "labels": [
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Smears",
+            "Whataboutism"
+        ],
+        "text": "When asked to fulfill its promise of freedom and democracy to Hong Kong:\n\\\u201cThe Sino-British Joint Declaration on Hong Kong is a historical document that no longer has meaning.\"\n\nWhen Britain offers citizenship to Hong Kongers:\n\\\u201cThe UK is breaking the promise it made in the Sino-British Joint Declaration!\\\u201d"
+    },
+    {
+        "id": "11012",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Bandwagon",
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Slogans"
+        ],
+        "text": "When CCP officials ask you to stfu but you're too brave to stay silent:\n\nFuck you, I'm not even scared of death"
+    },
+    {
+        "id": "11013",
+        "labels": [
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "Condemn racism\nBe racist\n\nCHINA"
+    },
+
+
+    {
+        "id": "10000",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Smears"
+        ],
+        "text": "Leftist: politely responds to an outragous Trump tweet with facts\nTrump:\n\nmy disappointment is immeasurable and my day is ruined"
+    },
+    {
+        "id": "10001",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "When a conservative tells me he would rather die than live under socialism\nOkay, get in."
+    },
+    {
+        "id": "10002",
+        "labels": [
+            "Bandwagon",
+            "Black-and-white Fallacy/Dictatorship",
+            "Causal Oversimplification",
+            "Exaggeration/Minimisation"
+        ],
+        "text": "LOOK HOW LONG WE'VE BEEN PROTESTING THIS SHIT\n\nAND YOU STILL THINK REFORM WILL WORK THIS TIME?"
+    },
+    {
+        "id": "10003",
+        "labels": [
+            "Reductio ad hitlerum",
+            "Smears"
+        ],
+        "text": "The U.S.: ignores a virus that has killed over 135,000\nThe Devil:\n\nWell, I just wanna say I am a huge fan"
+    },
+    {
+        "id": "10004",
+        "labels": [
+            "Doubt",
+            "Obfuscation, Intentional vagueness, Confusion",
+            "Smears",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "SOCIALISM LEADS TO MANY SOCIETAL IMPROVEMENTS.\nMOST FOLKS WILL CONSIDER... UPLIFTING\n\nAND HOW CAN I LEARN OF THESE THINGS?\n\nNOT FROM CORPORATE MEDIA OR WESTERN HISTORIANS"
+    },
+    {
+        "id": "10005",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Smears"
+        ],
+        "text": "CDC UNITED STATES SCHOOL REOPENING PLAN\nPHASE 1: OPEN UP ALL SCHOOLS\nPHASE 2: OH FUCK OH FUCK OH FUCK\nPHASE 3: CLOSE ALL SCHOOLS"
+    },
+    {
+        "id": "10006",
+        "labels": [
+            "Bandwagon"
+        ],
+        "text": "My FBI agent: are you seriously going to post another meme about violently overthrowing the elites? Me:\nYEAH BUOY"
+    },
+    {
+        "id": "10007",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)"
+        ],
+        "text": "Who controls capitalist governments?\nThe 0.1%\nWho controls Western media?\nThe 0.1%\nDo you trust the 0.1%?\nNO!!!\nDo you believe what capitalist governments & Western media say about socialist countries?\nYes."
+    },
+    {
+        "id": "10008",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "Marxists to anybody that genuinely wants to learn about the left\n\nOh dear, oh dear. Gorgeous.\n\nMarxists to fascists and conservatives who are dense on purpose\n\nYou fucking donkey."
+    },
+    {
+        "id": "10009",
+        "labels": [
+            "Exaggeration/Minimisation",
+            "Misrepresentation of Someone's Position (Straw Man)",
+            "Name calling/Labeling",
+            "Smears"
+        ],
+        "text": "I'm a libertarian.\nWhat's that mean?\nIt means he's afraid of positive duties.\nNo it doesn't.\nPeople have a moral obligation to help others.\nStop it Patrick, you're scaring him!"
+    },
+    {
+        "id": "10010",
+        "labels": [
+            "Bandwagon"
+        ],
+        "text": "U.S. MEDIA CLAIMS BIDEN IS A LEFTIST\n\nTHE REALITY IS WE CANT STOP LAUGHING AT HIM"
+    },
+    {
+        "id": "10011",
+        "labels": [
+            "Appeal to authority",
+            "Exaggeration/Minimisation",
+            "Flag-waving"
+        ],
+        "text": "You mean to tell me that revolting against our current government is the most patriotic thing American citizens could do?\n\nYES! It is written in our declaration of independence, and in U.S. law... And I am tired of pretending that its not"
+    },
+    {
+        "id": "10012",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Causal Oversimplification",
+            "Loaded Language",
+            "Name calling/Labeling",
+            "Reductio ad hitlerum",
+            "Slogans",
+            "Smears"
+        ],
+        "text": "YOU MAY NOT THINK TRUMP IS A NAZI.\n\nBUT THE NAZIS SURE SEEM TO THINK HE IS"
+    },
+    {
+        "id": "10013",
+        "labels": [
+            "Appeal to fear/prejudice",
+            "Exaggeration/Minimisation",
+            "Flag-waving",
+            "Loaded Language",
+            "Smears",
+            "Thought-terminating clich\u00e9"
+        ],
+        "text": "Dissent is the highest form of patriotism\n\nPatriotism is NOT allowing American soldiers to die in endless war. NOT allowing Americans to die from a virus and lack of healthcare, etc., etc.."
+    }
+]

@@ -3,18 +3,23 @@ git clone https://github.com/mesnico/MemePersuasionDetection.git
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
-# copy contents of "data" folder into MemePersuasionDetection/data
+# copy contents of "data" folder into "MemePersuasionDetection/data"
+# from the "MemePersuasionDetection/data/test_sets" directory, select a test set to move into the "MemePersuasionDetection/data" directory
+# rename that test set file "test_set_task1.txt"
 
 cd MemePersuasionDetection/data
 python3 create_folds.py
-	# this creates "folds.json", needed for training
+	# this creates "folds.json", which is needed for training
 
 cd ..
 python3 train.py --config cfg/config_task1.yaml --cross-validation
-	# this creates the "runs" directory and everything inside, including the .pt files in runs/test
+	# this creates the "runs" directory and everything inside, including the .pt files in "runs/test"
 	# start about 6:34 PM
 	# end about 2:23 AM
 
 # modify line 55 of inference.py from "model.cuda().eval()" to "model.eval()"
-python3 inference.py --checkpoint runs/test/model_best_fold0.pt --test --cross-validation
-	# this creates the "runs/test/cross_validation_results.log" file with MacroF1 and MicroF1 results
+# add these lines after line 146 of inference.py:
+#        macro_f1, micro_f1 = evaluate(predictions, dataloader.dataset.targets, classes)
+#        print('MacroF1: {}\nMicroF1: {}'.format(macro_f1, micro_f1))
+python3 inference.py --checkpoint runs/test/model_best_fold0.pt --test
+	# this uses model_best_fold0.pt model to perform testing on "test_set_task1.txt" in the "data" directory
